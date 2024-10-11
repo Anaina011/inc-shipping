@@ -90,29 +90,38 @@
                 "visibility": "public"
             }
         },
-        "z": {
-            "sticky-corn.html": {
-                "title": "sticky corn",
-                "featuredImage": "https:\/\/incshipping.com\/blog\/uploads\/Rectangle 1.png",
-                "url": "https:\/\/incshipping.com\/blog\/sticky-corn",
+        "dr.anjaliayurvedic": {
+            "dranjaliayurvedic.html": {
+                "title": "dr.anjaliayurvedic",
+                "featuredImage": "https:\/\/incshipping.com\/blog\/uploads\/copy-space-woman-with-serum-hair.jpg",
+                "url": "https:\/\/incshipping.com\/blog\/dranjaliayurvedic",
                 "category": "Blog",
                 "visibility": "public"
             }
         },
-        "w": {
-            "sticky-corn.html": {
-                "title": "sticky corn",
-                "featuredImage": "https:\/\/incshipping.com\/blog\/uploads\/Rectangle 1.png",
-                "url": "https:\/\/incshipping.com\/blog\/sticky-corn",
+        "": {
+            "unlock-vibrant-health-how-yoga-and-meditation-enhance-mind-and-body.html": {
+                "title": "Unlock Vibrant Health: How Yoga and Meditation Enhance Mind and Body?",
+                "featuredImage": "https:\/\/incshipping.com\/blog\/uploads\/5794866.jpg",
+                "url": "https:\/\/incshipping.com\/blog\/unlock-vibrant-health-how-yoga-and-meditation-enhance-mind-and-body",
                 "category": "Blog",
                 "visibility": "public"
             }
         },
-        "xxxx": {
-            "sticky-corn.html": {
-                "title": "sticky corn",
-                "featuredImage": "https:\/\/incshipping.com\/blog\/uploads\/Rectangle 1.png",
-                "url": "https:\/\/incshipping.com\/blog\/sticky-corn",
+        "YOGA": {
+            "unlock-vibrant-health-how-yoga-and-meditation-enhance-mind-and-body.html": {
+                "title": "Unlock Vibrant Health: How Yoga and Meditation Enhance Mind and Body?",
+                "featuredImage": "https:\/\/incshipping.com\/blog\/uploads\/5794866.jpg",
+                "url": "https:\/\/incshipping.com\/blog\/unlock-vibrant-health-how-yoga-and-meditation-enhance-mind-and-body",
+                "category": "Blog",
+                "visibility": "public"
+            }
+        },
+        "FITNESS": {
+            "unlock-vibrant-health-how-yoga-and-meditation-enhance-mind-and-body.html": {
+                "title": "Unlock Vibrant Health: How Yoga and Meditation Enhance Mind and Body?",
+                "featuredImage": "https:\/\/incshipping.com\/blog\/uploads\/5794866.jpg",
+                "url": "https:\/\/incshipping.com\/blog\/unlock-vibrant-health-how-yoga-and-meditation-enhance-mind-and-body",
                 "category": "Blog",
                 "visibility": "public"
             }

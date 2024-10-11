@@ -75,20 +75,28 @@
                             <br>
                             <h6>Advanced options</h6>
                             <br>
-                            <label for="">Scripts in head tag :</label>
+
+                            <label for="">Meta tags in head tag :</label>
                             <br>
                             <textarea rows="5" name="headSrcipts" id="headSrcipts"
-                                placeholder="Paste the code snippets to be placed inside the <head> tag"></textarea>
+                                placeholder="Paste the meta tag snippets to be placed inside the <head> tag"></textarea>
                             <br>
+
+                            <label for="">Structured data scripts :</label>
+                            <br>
+                            <textarea rows="5" name="structuredData" id="structuredData"
+                                placeholder="Paste the structured data code snippets to be placed inside the <head> tag"></textarea>
+
+                            <label for="">Other scripts :</label>
+                            <br>
+                            <textarea rows="5" name="otherHeadScripts" id="otherHeadScripts"
+                                placeholder="Paste other code snippets like g-tag manager, tracking codes etc, to be placed inside the <head> tag"></textarea>
+
                             <label for="">Scripts in body tag :</label>
                             <br>
                             <textarea rows="5" name="bodySrcipts" id="bodySrcipts"
                                 placeholder="Paste the code snippets to be placed inside the <body> tag"></textarea>
                             <br>
-                            <label for="">Structured data scripts :</label>
-                            <br>
-                            <textarea rows="5" name="structuredData" id="structuredData"
-                                placeholder="Paste the structured data code snippets to be placed inside the <head> tag"></textarea>
 
                         </section>
                     </div>
@@ -429,6 +437,7 @@
                 document.getElementById('postTitle').value = postData.title;
                 document.getElementById('headSrcipts').value = postData.headScripts || ''; // Load head scripts
                 document.getElementById('bodySrcipts').value = postData.bodyScripts || ''; // Load body scripts
+                document.getElementById('otherHeadScripts').value = postData.otherHeadScripts || ''; // Load body scripts
                 document.getElementById('structuredData').value = postData.structuredData || ''; // Load structured Data
 
 
